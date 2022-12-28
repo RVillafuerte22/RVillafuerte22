@@ -8,7 +8,7 @@
 
 ### ⚡ About me:
 
-- 💬 Ask me about **Python, SQL, PowerBi, Google Data Studio** 
+- 💬 Ask me about **Python, SQL, R, PowerBi, Google Data Studio** 
 
 - 📫 How to reach me: **raulvillafuerte22@gmail.com**
 
@@ -19,6 +19,8 @@
 <div align="left">
     <h3> :hammer: Languages & Technologies: </h3>
     <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg " title="R" alt ="R"
+        width="45" height="45"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt ="Python"
         width="45" height="45"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="ANACONDA" alt ="Anaconda"
