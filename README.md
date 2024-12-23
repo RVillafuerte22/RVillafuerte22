@@ -1,7 +1,7 @@
 <div id="header" align = "center">
     <img src="https://media.giphy.com/media/2fQ1Gq3KOpvNs4NTmu/giphy.gif" width = "300"/>
     <h1 align = "center"> Hey there, I'm Raúl Villafuerte</h1>
-    <h3 align = "center"> I'm a junior data scientist from Perú. Passionate about technology and learning new things. I like to work from home and automate some tasks                             if possible 
+    <h3 align = "center"> I'm a data analyst from Perú. Passionate about technology and learning new things. I like to work from home and automate some tasks                             if possible 
 </div>
 
 ---
